@@ -1,0 +1,50 @@
+{
+  "id": "logo_marquee",
+  "type": "SharedSlice",
+  "name": "LogoMarquee",
+  "description": "LogoMarquee",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "LogoMarquee",
+      "primary": {
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "title",
+            "placeholder": ""
+          }
+        },
+        "speed": {
+          "type": "Text",
+          "config": {
+            "label": "Marquee Speed",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "link": {
+          "type": "Link",
+          "config": {
+            "label": "link",
+            "placeholder": "",
+            "select": null
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

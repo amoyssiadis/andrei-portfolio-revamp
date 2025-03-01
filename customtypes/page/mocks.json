@@ -1,0 +1,874 @@
+[
+  {
+    "uid": {
+      "__TYPE__": "UIDContent",
+      "value": "seems"
+    },
+    "title": {
+      "__TYPE__": "StructuredTextContent",
+      "value": [
+        {
+          "type": "heading1",
+          "content": {
+            "text": "Other"
+          }
+        }
+      ]
+    },
+    "seo": {
+      "__TYPE__": "GroupContentType",
+      "value": [
+        {
+          "__TYPE__": "GroupItemContent",
+          "value": [
+            [
+              "title",
+              {
+                "__TYPE__": "FieldContent",
+                "value": "composed",
+                "type": "Text"
+              }
+            ],
+            [
+              "description",
+              {
+                "__TYPE__": "FieldContent",
+                "value": "enjoy",
+                "type": "Text"
+              }
+            ],
+            [
+              "image",
+              {
+                "__TYPE__": "LinkContent",
+                "value": {
+                  "__TYPE__": "FileLink",
+                  "id": "mock_Media_link",
+                  "kind": "file",
+                  "name": "mock_name",
+                  "url": "https://source.unsplash.com/daily",
+                  "size": "0"
+                }
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "slices": {
+      "__TYPE__": "SliceContentType",
+      "value": [
+        {
+          "key": "404$851fa56e-89e9-494d-a920-c97d5b26d6fc",
+          "name": "404",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "main_image": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6",
+                  "width": 4272,
+                  "height": 2848
+                },
+                "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6",
+                "width": 4272,
+                "height": 2848,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              },
+              "page_not_found": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e",
+                  "width": 4480,
+                  "height": 4480
+                },
+                "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e",
+                "width": 4480,
+                "height": 4480,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "hero$fd1c8c3b-769e-4b64-baab-f401618ff7c3",
+          "name": "hero",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "text": {
+                "__TYPE__": "StructuredTextContent",
+                "value": [
+                  {
+                    "type": "paragraph",
+                    "content": {
+                      "text": "Deserunt ex cillum in enim veniam aliqua. Aliqua sint laborum irure esse adipisicing elit sunt Lorem officia elit ullamco. Veniam nostrud labore eiusmod mollit cillum laborum duis consectetur consectetur duis aliqua et."
+                    }
+                  }
+                ]
+              },
+              "image": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b",
+                  "width": 3560,
+                  "height": 5340
+                },
+                "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b",
+                "width": 3560,
+                "height": 5340,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "image$5a81eb20-0d03-4406-ae2e-4939250edca2",
+          "name": "image",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "white",
+            "primary": {
+              "image": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
+                  "width": 3500,
+                  "height": 2338
+                },
+                "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
+                "width": 3500,
+                "height": 2338,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              },
+              "withAccent": {
+                "__TYPE__": "BooleanContent",
+                "value": true
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "text_with_features$197e0539-2f29-4be4-a76a-17139b17d932",
+          "name": "text_with_features",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "icon": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef",
+                  "width": 4000,
+                  "height": 6000
+                },
+                "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef",
+                "width": 4000,
+                "height": 6000,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              },
+              "text": {
+                "__TYPE__": "StructuredTextContent",
+                "value": [
+                  {
+                    "type": "paragraph",
+                    "content": {
+                      "text": "Ut ut id ex."
+                    }
+                  }
+                ]
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": [
+                  [
+                    "featureDescription",
+                    {
+                      "__TYPE__": "StructuredTextContent",
+                      "value": [
+                        {
+                          "type": "paragraph",
+                          "content": {
+                            "text": "Veniam adipisicing culpa duis anim irure mollit irure anim sunt minim duis ipsum deserunt deserunt ad. Culpa pariatur eu Lorem in officia labore sit nostrud tempor eiusmod amet proident. Consequat in excepteur mollit."
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "key": "text_with_image$2f307351-c0f3-486f-a9a7-8392ed9fa5e2",
+          "name": "text_with_image",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "text": {
+                "__TYPE__": "StructuredTextContent",
+                "value": [
+                  {
+                    "type": "paragraph",
+                    "content": {
+                      "text": "Id dolore deserunt velit reprehenderit consequat adipisicing ad elit non in sit mollit in."
+                    }
+                  }
+                ]
+              },
+              "image": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a",
+                  "width": 3024,
+                  "height": 3778
+                },
+                "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a",
+                "width": 3024,
+                "height": 3778,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "logo$30e9ec84-58f1-4a2c-bcaf-dfc39b678530",
+          "name": "logo",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "image": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+                  "width": 4076,
+                  "height": 2712
+                },
+                "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+                "width": 4076,
+                "height": 2712,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "main_logo$2b61d6ad-07f8-400d-b839-5996876612cd",
+          "name": "main_logo",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "logo": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88",
+                  "width": 3168,
+                  "height": 4752
+                },
+                "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88",
+                "width": 3168,
+                "height": 4752,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              },
+              "menu": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51",
+                  "width": 2545,
+                  "height": 2545
+                },
+                "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51",
+                "width": 2545,
+                "height": 2545,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              },
+              "bgImg": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1587905069134-008460d7a636",
+                  "width": 3935,
+                  "height": 5894
+                },
+                "url": "https://images.unsplash.com/photo-1587905069134-008460d7a636",
+                "width": 3935,
+                "height": 5894,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              },
+              "logo_bg": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+                  "width": 4076,
+                  "height": 2712
+                },
+                "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+                "width": 4076,
+                "height": 2712,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              },
+              "work_menu_bg": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1586952518485-11b180e92764",
+                  "width": 4172,
+                  "height": 4000
+                },
+                "url": "https://images.unsplash.com/photo-1586952518485-11b180e92764",
+                "width": 4172,
+                "height": 4000,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "language_selector$730d4ec0-83ca-4f82-b526-2c18b0c81270",
+          "name": "language_selector",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "image": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b",
+                  "width": 3560,
+                  "height": 5340
+                },
+                "url": "https://images.unsplash.com/photo-1471897488648-5eae4ac6686b",
+                "width": 3560,
+                "height": 5340,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "about_text_with_button$a5e3c144-0681-484e-9a23-c2d3c9e5779f",
+          "name": "about_text_with_button",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "about": {
+                "__TYPE__": "StructuredTextContent",
+                "value": [
+                  {
+                    "type": "paragraph",
+                    "content": {
+                      "text": "Incididunt ex labore laborum ad laboris veniam in aliquip. Incididunt dolor aliquip sint incididunt."
+                    }
+                  }
+                ]
+              },
+              "button_name": {
+                "__TYPE__": "FieldContent",
+                "value": "forest",
+                "type": "Text"
+              },
+              "button_link": {
+                "__TYPE__": "LinkContent",
+                "value": {
+                  "__TYPE__": "ExternalLink",
+                  "url": "http://twitter.com"
+                }
+              },
+              "image": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab",
+                  "width": 12288,
+                  "height": 16384
+                },
+                "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab",
+                "width": 12288,
+                "height": 16384,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "floating_image$6f89542e-1945-4350-9fdc-5b2a0ab90534",
+          "name": "floating_image",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "image": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
+                  "width": 3500,
+                  "height": 2338
+                },
+                "url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
+                "width": 3500,
+                "height": 2338,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "mansory$83d05045-154b-44ad-b54c-bb5507233d84",
+          "name": "mansory",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "oneColumn": {
+                "__TYPE__": "BooleanContent",
+                "value": true
+              },
+              "no_of_columns": {
+                "__TYPE__": "FieldContent",
+                "value": "8",
+                "type": "Number"
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": [
+                  [
+                    "is_clickable",
+                    {
+                      "__TYPE__": "BooleanContent",
+                      "value": true
+                    }
+                  ],
+                  [
+                    "image",
+                    {
+                      "__TYPE__": "ImageContent",
+                      "origin": {
+                        "id": "main",
+                        "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43",
+                        "width": 4024,
+                        "height": 4024
+                      },
+                      "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43",
+                      "width": 4024,
+                      "height": 4024,
+                      "edit": {
+                        "zoom": 1,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "background": "transparent"
+                      },
+                      "thumbnails": {}
+                    }
+                  ],
+                  [
+                    "media",
+                    {
+                      "__TYPE__": "LinkContent",
+                      "value": {
+                        "__TYPE__": "FileLink",
+                        "id": "mock_Media_link",
+                        "kind": "file",
+                        "name": "mock_name",
+                        "url": "https://source.unsplash.com/daily",
+                        "size": "0"
+                      }
+                    }
+                  ],
+                  [
+                    "image_hover",
+                    {
+                      "__TYPE__": "ImageContent",
+                      "origin": {
+                        "id": "main",
+                        "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da",
+                        "width": 4000,
+                        "height": 4000
+                      },
+                      "url": "https://images.unsplash.com/photo-1591012911207-0dbac31f37da",
+                      "width": 4000,
+                      "height": 4000,
+                      "edit": {
+                        "zoom": 1,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "background": "transparent"
+                      },
+                      "thumbnails": {}
+                    }
+                  ],
+                  [
+                    "description",
+                    {
+                      "__TYPE__": "FieldContent",
+                      "value": "charge",
+                      "type": "Text"
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "key": "logo_marquee$1d5bc2f8-abaf-42cc-a07a-d125d1f891b9",
+          "name": "logo_marquee",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "title": {
+                "__TYPE__": "FieldContent",
+                "value": "especially",
+                "type": "Text"
+              },
+              "speed": {
+                "__TYPE__": "FieldContent",
+                "value": "five",
+                "type": "Text"
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": [
+                  [
+                    "image",
+                    {
+                      "__TYPE__": "ImageContent",
+                      "origin": {
+                        "id": "main",
+                        "url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117",
+                        "width": 3810,
+                        "height": 5715
+                      },
+                      "url": "https://images.unsplash.com/photo-1587614295999-6c1c13675117",
+                      "width": 3810,
+                      "height": 5715,
+                      "edit": {
+                        "zoom": 1,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "background": "transparent"
+                      },
+                      "thumbnails": {}
+                    }
+                  ],
+                  [
+                    "link",
+                    {
+                      "__TYPE__": "LinkContent",
+                      "value": {
+                        "__TYPE__": "ExternalLink",
+                        "url": "http://google.com"
+                      }
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "key": "footer$d7f49459-3675-4be2-b650-0fa5d0fd6ae5",
+          "name": "footer",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {},
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "top_bar$3909d8a8-b63d-49f1-8aba-98e240ce53a8",
+          "name": "top_bar",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {
+              "image": {
+                "__TYPE__": "ImageContent",
+                "origin": {
+                  "id": "main",
+                  "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055",
+                  "width": 3277,
+                  "height": 4092
+                },
+                "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055",
+                "width": 3277,
+                "height": 4092,
+                "edit": {
+                  "zoom": 1,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "background": "transparent"
+                },
+                "thumbnails": {}
+              },
+              "is_clickable": {
+                "__TYPE__": "BooleanContent",
+                "value": true
+              }
+            },
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": []
+              }
+            ]
+          }
+        },
+        {
+          "key": "floating_images$6abfa253-cb3e-4a10-ac10-9e4dee8cdc84",
+          "name": "floating_images",
+          "widget": {
+            "__TYPE__": "SharedSliceContent",
+            "variation": "default",
+            "primary": {},
+            "items": [
+              {
+                "__TYPE__": "GroupItemContent",
+                "value": [
+                  [
+                    "image",
+                    {
+                      "__TYPE__": "ImageContent",
+                      "origin": {
+                        "id": "main",
+                        "url": "https://images.unsplash.com/photo-1593642633279-1796119d5482",
+                        "width": 4016,
+                        "height": 6016
+                      },
+                      "url": "https://images.unsplash.com/photo-1593642633279-1796119d5482",
+                      "width": 4016,
+                      "height": 6016,
+                      "edit": {
+                        "zoom": 1,
+                        "crop": {
+                          "x": 0,
+                          "y": 0
+                        },
+                        "background": "transparent"
+                      },
+                      "thumbnails": {}
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

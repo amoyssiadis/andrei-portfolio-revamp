@@ -1,0 +1,15 @@
+{
+  "id": "portfolio",
+  "label": "Portfolio",
+  "repeatable": true,
+  "status": true,
+  "format": "custom",
+  "json": {
+    "Main": {
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone"
+      }
+    }
+  }
+}

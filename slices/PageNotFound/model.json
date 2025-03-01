@@ -1,0 +1,35 @@
+{
+  "id": "404",
+  "type": "SharedSlice",
+  "name": "PageNotFound",
+  "description": "404",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "404",
+      "primary": {
+        "main_image": {
+          "type": "Image",
+          "config": {
+            "label": "404 Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "page_not_found": {
+          "type": "Image",
+          "config": {
+            "label": "Page Not Found",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

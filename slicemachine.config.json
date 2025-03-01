@@ -1,0 +1,7 @@
+{
+  "apiEndpoint": "https://andrei-portfolio.prismic.io/api/v2",
+  "repositoryName": "andrei-portfolio",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./slices"],
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}

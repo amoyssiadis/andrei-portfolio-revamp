@@ -1,0 +1,135 @@
+{
+  "id": "mansory",
+  "type": "SharedSlice",
+  "name": "Mansory",
+  "description": "Mansory",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Mansory",
+      "primary": {
+        "oneColumn": {
+          "type": "Boolean",
+          "config": {
+            "label": "One Column?",
+            "default_value": false,
+            "placeholder_true": "true",
+            "placeholder_false": "false"
+          }
+        },
+        "no_of_columns": {
+          "type": "Number",
+          "config": {
+            "label": "No of Columns",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "is_clickable": {
+          "type": "Boolean",
+          "config": {
+            "label": "Is Clickable",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        },
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "Imagem Destacada",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "media": {
+          "type": "Link",
+          "config": {
+            "label": "Media",
+            "placeholder": "",
+            "select": "media"
+          }
+        },
+        "image_hover": {
+          "type": "Image",
+          "config": {
+            "label": "Imagem MouseOver",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "description": {
+          "type": "Text",
+          "config": {
+            "label": "Descrição",
+            "placeholder": ""
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "mansoryVertical",
+      "name": "Mansory Vertical",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Mansory",
+      "primary": {
+        "no_of_columns": {
+          "type": "Number",
+          "config": {
+            "label": "No of Columns",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "is_clickable": {
+          "type": "Boolean",
+          "config": {
+            "label": "Is Clickable",
+            "placeholder_false": "false",
+            "placeholder_true": "true",
+            "default_value": true
+          }
+        },
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "Imagem Destacada",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "media": {
+          "type": "Link",
+          "config": {
+            "label": "Media",
+            "placeholder": "",
+            "select": "media"
+          }
+        },
+        "image_hover": {
+          "type": "Image",
+          "config": {
+            "label": "Imagem MouseOver",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "description": {
+          "type": "Text",
+          "config": {
+            "label": "Descrição",
+            "placeholder": ""
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

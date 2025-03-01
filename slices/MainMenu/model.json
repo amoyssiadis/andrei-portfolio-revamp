@@ -1,0 +1,94 @@
+{
+  "id": "main_logo",
+  "type": "SharedSlice",
+  "name": "MainMenu",
+  "description": "MainLogo",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "MainLogo",
+      "primary": {
+        "logo": {
+          "type": "Image",
+          "config": {
+            "label": "logo",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "menu": {
+          "type": "Image",
+          "config": {
+            "label": "menu image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "bgImg": {
+          "type": "Image",
+          "config": {
+            "label": "background image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "logo_bg": {
+          "type": "Image",
+          "config": {
+            "label": "Logo Bg",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "work_menu_bg": {
+          "type": "Image",
+          "config": {
+            "label": "Work Menu Bg",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "gallery",
+      "name": "Gallery",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "MainLogo",
+      "primary": {
+        "logo": {
+          "type": "Image",
+          "config": {
+            "label": "logo",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "menu": {
+          "type": "Image",
+          "config": {
+            "label": "menu image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "work_menu_bg": {
+          "type": "Image",
+          "config": {
+            "label": "Work Menu Bg",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}
